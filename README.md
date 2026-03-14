@@ -24,7 +24,7 @@ Link Hướng dẫn và tải phần mềm
 
 ---
 ## 🛠 Lưu ý
-- khi mới UPdate FW hay lần đầu dùng bo mạch phải cài đặt hệ thống bằng NVM-TOOL-PC hay NVM-TOOL-MOBILE để cài đặt Class 2.0,2.1,1.1,..  Phím bấm , Biến trở,..
+- khi mới UPdate FW hay lần đầu dùng bo mạch phải cài đặt hệ thống bằng NVM-TOOL-PC hay NVM-TOOL-MOBILE để cài đặt Class 2.0, 2.1, 1.1,..  Phím bấm , Biến trở,..
 
 ## 📥 Tải xuống FW
 
