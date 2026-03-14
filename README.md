@@ -36,7 +36,7 @@ Phiên bản mới nhất của **FW ANT** được phát hành tại GitHub Rel
 
 ### 🔇 MUTE Control
 - **Pin:** `GPIOB1`
-- `High`  → Có nhạc  Low
+- `High`  → Có nhạc
 - `Low` → Không có nhạc  
 
 ---
