@@ -34,27 +34,19 @@ Phiên bản mới nhất của **FW ANT** được phát hành tại GitHub Rel
 ---
 
 ### 🔇 MUTE Control
-- **Pin:** `GPIOA10`
-- `Low`  → Có nhạc  
-- `High` → Không có nhạc  
+- **Pin:** `GPIOB1`
+- `High`  → Có nhạc  Low
+- `Low` → Không có nhạc  
 
 ---
 
 ### 🎛 KEY Control
-- **Pin:** `GPIOA23`
-- **Vị trí:** Điểm nối giữa tụ **C15** và điện trở **104**
-
-#### 🔧 Chế độ hoạt động
-
-- 🔌 **Key OFF + Cắm AUX**  
-  → Tự động chuyển sang **AUX Mode**
-
-- 🔘 **Key ON**  
-  → Hỗ trợ **11 phím Key**
-
-> ℹ Có thể tham khảo thêm trong nhóm Facebook: *nvmaudio*
-
----
+- **Pin:** `POWERKEY_ADC`
+- Key 1 : 100 om
+- Key 2 : 4K7 om
+- Key 3 : 8K2 om
+- Key 4 : 100K om
+- Key 5 : 220K om
 
 ## 💻 Software Update
 
@@ -71,41 +63,5 @@ Phần mềm tự phát triển hỗ trợ:
 
 - Thay đổi nhạc thông báo
 - Thay đổi âm thanh khởi động
-
----
-
-# 🔄 Version 4.0.1
-- Cải thiện chỉnh **Bass / Mid / Treble** bằng App  
-  > ⚠ Lưu ý: Cần chọn `Pre_mode = App` trong mục **Quick Setting**
-
----
-
-# 🔄 Version 4.0.2
-- Cải thiện độ mượt khi chỉnh **Volume trên App**
-
----
-
-# 🔄 Version 4.0.3
-- Tối ưu đồng bộ giữa **App và Chip**
-
----
-
-# 🔄 Version 4.0.4
-- Cập nhật **Preamp** có thể điều chỉnh được cả **DACX**
-
----
-
-# 🔄 Version 4.0.5
-- Cập nhật giao diện **Mobile & PC**
-- Fix lỗi nhập liệu không còn bị loạn
-
----
-
-## 📌 Ghi chú
-
-Khuyến nghị sử dụng phiên bản mới nhất để đảm bảo:
-- Đồng bộ ổn định giữa App và thiết bị
-- Hiệu suất xử lý tốt hơn
-- Tránh lỗi cấu hình
 
 ---
