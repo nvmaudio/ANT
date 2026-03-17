@@ -59,3 +59,12 @@
   - Để thay đổi độ lớn +- của Pregain, dùng biến trở hay điều khiển qua App mobile. Hãy vào Cài đặt > Pregain điều chỉnh.
   - Có thể Tắt **Biến trở** và Bật **Pream**p  để chỉnh `Bass Mid Treb` bằng **APP** mà không cần thiết kế **Biến trở** cho Loa
 ---
+
+### 💻 File DSP mặc định
+
+[Download File cho ACPWorkbench](macdinh.ini)
+[Download File cho NVM-TOOL-PC](effects_backup.json)
+
+![Main UI](macdinh.ini)
+
+---
