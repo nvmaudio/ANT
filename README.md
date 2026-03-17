@@ -31,11 +31,10 @@
 ### 🔇 MUTE Control
 - `High` → Có nhạc  
 - `Low` → Tắt nhạc
-- Lưu ý: Chú ý khi ghép mạch CS, tránh xông điện ngược về Chip > 5V
+- Lưu ý: Chú ý khi ghép mạch CS, tránh **xông điện ngược** về Chip > **5V**
 ---
 
 ### 🎛 KEY Control
-- **Pin:** `POWERKEY_ADC`
 
 | Key | Giá trị |
 |-----|--------|
@@ -47,16 +46,7 @@
 
 ---
 
-### 💻 Software Update
+### 💻 Hệ Thống DSP
 
-#### 🎚 Điều khiển DSP (PC & Mobile)
-- Bật / Tắt Key  
-- Điều chỉnh biến trở  
-- Cấu hình Key  
-- Thiết lập hệ thống  
-
-#### 🖥 PC Tool bổ sung
-- Thay đổi nhạc thông báo  
-- Thay đổi âm thanh khởi động  
 
 ---
