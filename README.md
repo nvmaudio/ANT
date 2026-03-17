@@ -62,9 +62,7 @@
 
 ### 💻 File DSP mặc định
 
-[Download File cho ACPWorkbench](macdinh.ini)
-[Download File cho NVM-TOOL-PC](effects_backup.json)
-
-![Main UI](macdinh.ini)
+[Download File cho ACPWorkbench](https://github.com/nvmaudio/ANT/blob/main/macdinh.ini)
+[Download File cho NVM-TOOL-PC](https://github.com/nvmaudio/ANT/blob/main/effects_backup.json)
 
 ---
