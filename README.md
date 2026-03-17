@@ -19,7 +19,7 @@
     - Class: `2.0 / 2.1 / MONO / 1.1 / 3way`
     - Phím bấm: `Bật / Tắt`
     - Biến trở: `Bật / Tắt`
-    - EQ / Preamp: `Bật / Tắt`
+    - EQ / Preamp: `Bật / Tắt` + Preamp mode
 ---
 
 ### 📥 Firmware
