@@ -51,3 +51,15 @@
 ![Main UI](1.png)
 
 ---
+
+
+### 💻 Cài Đặt Biến trở + Preamp
+- Biến trở dùng để điều chỉnh Âm lượng tổng hay Độ lớn âm lượng `Bass Mid Treb` Khi **Preamp** Bật
+  - **Âm lượng tổng**: Âm lượng toàn hệ thống 
+  - **Preamp**: Chức năng điều chỉnh `Bass Mid Treb` bằng  **Music Preamp EQ**:
+    - Bass: **F0** , Chỉnh Hz và Q theo sở thích mặc định **60**Hz Q**0.5**
+    - Mid: **F1** , Chỉnh Hz và Q theo sở thích mặc định **1.000**Hz Q**0.5**
+    - Treb: **F2**, Chỉnh Hz và Q theo sở thích mặc định **10.000**Hz Q**0.5**
+  - Để thay đổi độ lớn +- của Pregain, dùng biến trở hay điều khiển qua App mobile. Hãy vào Cài đặt > Pregain điều chỉnh.
+  - Có thể Tắt **Biến trở** và Bật **Pream**p  để chỉnh `Bass Mid Treb` bằng **APP** mà không cần thiết kế **Biến trở** cho Loa
+---
