@@ -48,5 +48,6 @@
 
 ### 💻 Hệ Thống DSP
 
+![Main UI](1.png)
 
 ---
