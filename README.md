@@ -4,44 +4,34 @@
 
 ### 🛠 Công cụ liên quan
 
-#### 🔹 ACPWorkbench – DSP gốc của MVsilicon 👉 [Hướng dẫn & Download](https://github.com/nvmaudio/ACPWorkbench)
-
-#### 🔹 NVM-TOOL-PC
-- DSP + cấu hình thông số (PC)  
-- 👉 [Hướng dẫn & Download](https://github.com/nvmaudio/NVM-TOOL-PC)
-
-#### 🔹 NVM-TOOL-MOBILE
-- DSP + cấu hình thông số (Mobile)  
-- 👉 [Hướng dẫn & Download](https://github.com/nvmaudio/NVM-TOOL-MOBILE)
-
-#### 🔹 MV_Assisant_Tools
-- Tool update FW của MVsilicon  
-- 👉 [Hướng dẫn & Download](https://github.com/nvmaudio/MV_Assisant_Tools)
-
+| Tool | Mô tả | Link |
+|------|------|------|
+| **ACPWorkbench** | DSP gốc của MVsilicon | 👉 [Tải xuống](https://github.com/nvmaudio/ACPWorkbench) |
+| **NVM-TOOL-PC** | DSP & cấu hình thông số (PC) | 👉 [Tải xuống](https://github.com/nvmaudio/NVM-TOOL-PC) |
+| **NVM-TOOL-MOBILE** | DSP & cấu hình thông số (Mobile) | 👉 [Tải xuống](https://github.com/nvmaudio/NVM-TOOL-MOBILE) |
+| **MV_Assisant_Tools** | Tool update FW (MVsilicon) | 👉 [Tải xuống](https://github.com/nvmaudio/MV_Assisant_Tools) |
 ---
 
 ### ⚠️ Lưu ý
-- Sau khi **update FW lần đầu** hoặc dùng bo mạch mới:
-  - Cần cấu hình hệ thống bằng:
-    - `NVM-TOOL-PC` hoặc  
-    - `NVM-TOOL-MOBILE`
-  - Thiết lập:
-    - Class: `2.0 / 2.1 / 1.1`
-    - Phím bấm
-    - Biến trở
-
+- Sau khi **Update FW** hoặc **Thiết lập hệ thống lần đầu** :
+  - Cần cấu hình hệ thống bằng: `NVM-TOOL-PC` hoặc `NVM-TOOL-MOBILE`
+  - Mục **Cài Đặt Nhanh** [*]:
+    - Class: `2.0 / 2.1 / MONO / 1.1 / 3way`
+    - Phím bấm: `Bật / Tắt`
+    - Biến trở: `Bật / Tắt`
+    - EQ / Preamp: `Bật / Tắt`
 ---
 
 ### 📥 Firmware
-- 🔗 [Download FW ANT](http://github.com/nvmaudio/ANT/releases/tag/ANT)
+- 🔗 [Download FW ANT mới nhất V4.0.8](https://github.com/nvmaudio/ANT/releases/download/ANT/ANTv4.0.8.mva)
+- 🔗 [Download FW ANT Các bản cũ hơn](http://github.com/nvmaudio/ANT/releases/tag/ANT)
 
 ---
 
 ### 🔇 MUTE Control
-- **Pin:** `GPIOB1`  
 - `High` → Có nhạc  
-- `Low` → Tắt nhạc  
-
+- `Low` → Tắt nhạc
+- Lưu ý: Chú ý khi ghép mạch CS, tránh xông điện ngược về Chip > 5V
 ---
 
 ### 🎛 KEY Control
