@@ -23,7 +23,7 @@
 ---
 
 ### 📥 Firmware
-- 🔗 [Download FW ANT mới nhất V4.0.8](https://github.com/nvmaudio/ANT/releases/download/ANT/ANTv4.0.8.mva)
+- 🔗 [Download FW ANT mới nhất V4.0.9](https://github.com/nvmaudio/ANT/releases/download/ANT/ANTv4.0.9.mva)
 - 🔗 [Download FW ANT Các bản cũ hơn](http://github.com/nvmaudio/ANT/releases/tag/ANT)
 
 ---
