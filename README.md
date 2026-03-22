@@ -7,9 +7,10 @@
 | Tool | Mô tả | Link |
 |------|------|------|
 | **ACPWorkbench** | DSP gốc của MVsilicon | 👉 [Tải xuống](https://github.com/nvmaudio/ACPWorkbench) |
+| **MV_Assisant_Tools** | Tool update FW (MVsilicon) | 👉 [Tải xuống](https://github.com/nvmaudio/MV_Assisant_Tools) |
 | **NVM-TOOL-PC** | DSP & cấu hình thông số (PC) | 👉 [Tải xuống](https://github.com/nvmaudio/NVM-TOOL-PC) |
 | **NVM-TOOL-MOBILE** | DSP & cấu hình thông số (Mobile) | 👉 [Tải xuống](https://github.com/nvmaudio/NVM-TOOL-MOBILE) |
-| **MV_Assisant_Tools** | Tool update FW (MVsilicon) | 👉 [Tải xuống](https://github.com/nvmaudio/MV_Assisant_Tools) |
+
 ---
 
 ### ⚠️ Lưu ý
