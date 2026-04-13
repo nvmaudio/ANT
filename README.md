@@ -36,7 +36,7 @@
 
 ## 🔹 Version V4.1  Ko dùng App chung với V4
 - 📦 **Bản mới nhất:**  
-  👉 [Download ANT V4.1.0 RB1](https://github.com/nvmaudio/ANT/releases/download/ANT_V4.1/BDM3P.V4.1.Pro.RB1.zip)
+  👉 [Download ANT V4.1.0 RB1](https://github.com/nvmaudio/ANT/releases/download/ANT_V4.1/ANT_V4.1.0_RB1.zip)
 
 - 🗂 **Các bản cũ:**  
   👉 [Xem tại đây](https://github.com/nvmaudio/ANT/releases/tag/ANT_V4.1)
