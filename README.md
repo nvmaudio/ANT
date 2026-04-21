@@ -25,7 +25,7 @@
 
 # 📥 Firmware ANT
 
-## 🔹 Version V4
+## 🔹 Version V4 👉 https://v4.ant39.com/
 - 📦 **Bản mới nhất:**  
   👉 [Download ANT V4.0.9](https://github.com/nvmaudio/ANT/releases/download/ANT/ANTv4.0.9.mva)
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 🔹 Version V4.1  Ko dùng App chung với V4
+## 🔹 Version V4.1 👉 https://v41.ant39.com/
 - 📦 **Bản mới nhất:**  
   👉 [Download ANT V4.1.0 RB2](https://github.com/nvmaudio/ANT/releases/download/ANT_V4.1/ANT_V4.1.0_RB2.zip)
 
