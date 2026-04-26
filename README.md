@@ -27,7 +27,7 @@
 
 ## 🔹 Version V4 👉 https://v4.ant39.com/
 - 📦 **Bản mới nhất:**  
-  👉 [Download ANT V4.0.9](https://github.com/nvmaudio/ANT/releases/download/ANT/ANTv4.0.9.mva)
+  👉 [Download ANT V4.0.10](https://github.com/nvmaudio/ANT/releases/download/ANT/ANTv4.0.10.mva)
 
 - 🗂 **Các bản cũ:**  
   👉 [Xem tại đây](https://github.com/nvmaudio/ANT/releases/tag/ANT)
