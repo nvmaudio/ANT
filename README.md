@@ -43,6 +43,15 @@
 
 ---
 
+## 🔹 Version V4.2 👉 https://v42.ant39.com/
+- 📦 **Bản mới nhất:**  
+  👉 [Download ANT V4.2.0 RB01](https://github.com/nvmaudio/ANT/releases/download/ANT_V4.1/ANT_V4.1.0_RB12.zip)
+
+- 🗂 **Các bản cũ:**  
+  👉 [Xem tại đây](https://github.com/nvmaudio/ANT/releases/tag/ANT_V4.2)
+
+---
+
 > 💡 **Lưu ý:** Hãy chọn đúng phiên bản firmware phù hợp với thiết bị của bạn trước khi cập nhật.
 
 ### 🔇 MUTE Control
