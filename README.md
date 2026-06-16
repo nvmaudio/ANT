@@ -36,7 +36,7 @@
 
 ## 🔹 Version V4.1 👉 https://v41.ant39.com/
 - 📦 **Bản mới nhất:**  
-  👉 [Download ANT V4.1.0 RB14](https://github.com/nvmaudio/ANT/releases/download/ANT_V4.1/ANT_V4.1.0_RB14.zip)
+  👉 [Download ANT V4.1.0 RB15](https://github.com/nvmaudio/ANT/releases/download/ANT_V4.1/ANT_V4.1.0_RB15.zip)
 
 - 🗂 **Các bản cũ:**  
   👉 [Xem tại đây](https://github.com/nvmaudio/ANT/releases/tag/ANT_V4.1)
@@ -45,7 +45,7 @@
 
 ## 🔹 Version V4.2 👉 https://v42.ant39.com/
 - 📦 **Bản mới nhất:**  
-  👉 [Download ANT V4.2.0 RB02](https://github.com/nvmaudio/ANT/releases/download/ANT_V4.2/ANT_V4.2.0_RB02.zip)
+  👉 [Download ANT V4.2.0 RB03](https://github.com/nvmaudio/ANT/releases/download/ANT_V4.2/ANT_V4.2.0_RB03.zip)
 
 - 🗂 **Các bản cũ:**  
   👉 [Xem tại đây](https://github.com/nvmaudio/ANT/releases/tag/ANT_V4.2)
